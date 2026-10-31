@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e2442a-1523-4ff8-ad6f-8a3846c8c0d8" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="69e2442a-1523-4ff8-ad6f-8a3846c8c0d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +91,76 @@
       </list>
     </option>
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3141963817598467E-220" />
+      <entry key="MS500" value="1.0594136188105293E-44" />
+      <entry key="S2" value="1.2939469472963012E-11" />
+      <entry key="S5" value="7.870269460700873E-5" />
+      <entry key="S10" value="0.017947310042936475" />
+      <entry key="S30" value="0.8111847919965697" />
+      <entry key="S60" value="2.1857033008255784" />
+      <entry key="M2" value="3.612643683464659" />
+      <entry key="M5" value="4.895149039416287" />
+      <entry key="M10" value="5.418958402853935" />
+      <entry key="M15" value="5.605978627428817" />
+      <entry key="M30" value="5.799580449302338" />
+      <entry key="H1" value="5.898922916899088" />
+      <entry key="H2" value="5.949242715290893" />
+      <entry key="H4" value="5.974566430442356" />
+      <entry key="D1" value="5.995753422383566" />
+      <entry key="W1" value="5.999393158454666" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000001620322" />
+      <entry key="S5" value="1.0001212943524853" />
+      <entry key="S10" value="1.0110133715312437" />
+      <entry key="S30" value="1.2224880877769737" />
+      <entry key="S60" value="1.4716864295026664" />
+      <entry key="M2" value="1.6867943138252284" />
+      <entry key="M5" value="1.8604599804881694" />
+      <entry key="M10" value="1.9276098212546962" />
+      <entry key="M15" value="1.9511380564257692" />
+      <entry key="M30" value="1.9752630703691025" />
+      <entry key="H1" value="1.9875540847817412" />
+      <entry key="H2" value="1.9937575583520064" />
+      <entry key="H4" value="1.9968738929032128" />
+      <entry key="D1" value="1.999478302202169" />
+      <entry key="W1" value="1.9999254550744003" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="9.894547992297407E-19" />
+      <entry key="MS500" value="2.506566273730465E-4" />
+      <entry key="S2" value="0.12582582833821143" />
+      <entry key="S5" value="0.4365663298615723" />
+      <entry key="S10" value="0.6862919607028438" />
+      <entry key="S30" value="1.8693792311579802" />
+      <entry key="S60" value="3.544343045250281" />
+      <entry key="M2" value="5.227209585444521" />
+      <entry key="M5" value="6.721046793920968" />
+      <entry key="M10" value="7.328122679148243" />
+      <entry key="M15" value="7.544541833899901" />
+      <entry key="M30" value="7.7684121111555084" />
+      <entry key="H1" value="7.883224319663626" />
+      <entry key="H2" value="7.941364562710974" />
+      <entry key="H4" value="7.9706201095383244" />
+      <entry key="D1" value="7.995094693382735" />
+      <entry key="W1" value="7.999299029570469" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="3LTLW0dDx7p06SdSuaQ38m1Elet" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -115,19 +181,24 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610304431098" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/destinyazenobie/git-exercises&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example" />
@@ -157,6 +228,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -221,7 +300,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
